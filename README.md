@@ -13,10 +13,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-원하는 앱을 개발하기 위해서
-
-2022/04/18 플러터 공부 시작
-플러터 기본 작동, Do it 책 보면서 스위치 작동
-stateless, stateful의 차이
-_언더바의 차이
-에 대해 알게 되었다.
